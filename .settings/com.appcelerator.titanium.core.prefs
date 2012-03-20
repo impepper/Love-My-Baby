@@ -1,0 +1,10 @@
+#Wed Mar 07 23:03:37 CST 2012
+eclipse.preferences.version=1
+provisioning_profiles/development/7BDCE757-99DC-481E-B193-C4BA5C92A759/appid=com.fuihan.lovemybaby
+provisioning_profiles/development/7BDCE757-99DC-481E-B193-C4BA5C92A759/filepath=/Volumes/MAC_Data/iApp Distribution/cert/Live_My_Baby_DEV.mobileprovision
+provisioning_profiles/development/7BDCE757-99DC-481E-B193-C4BA5C92A759/name=Live My Baby DEV
+provisioning_profiles/development/7BDCE757-99DC-481E-B193-C4BA5C92A759/uuid=7BDCE757-99DC-481E-B193-C4BA5C92A759
+provisioning_profiles/distribution/63BDF42A-DA03-4C9D-AD38-91C63F80379F/appid=com.fuihan.lovemybaby
+provisioning_profiles/distribution/63BDF42A-DA03-4C9D-AD38-91C63F80379F/filepath=/Volumes/MAC_Data/iApp Distribution/cert/Love_My_Baby_DIST.mobileprovision
+provisioning_profiles/distribution/63BDF42A-DA03-4C9D-AD38-91C63F80379F/name=Love My Baby DIST
+provisioning_profiles/distribution/63BDF42A-DA03-4C9D-AD38-91C63F80379F/uuid=63BDF42A-DA03-4C9D-AD38-91C63F80379F

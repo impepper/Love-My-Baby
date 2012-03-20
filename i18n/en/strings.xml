@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="_createBaby">Create New Baby</string>
+    <string name="Camera">Camera</string>
+    <string name="Photo_Gallery">Photo_Gallery</string>
+    <string name="_Delete">Remove from Lists?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+</resources>

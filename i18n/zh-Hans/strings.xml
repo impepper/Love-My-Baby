@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="_createBaby">从何处建立新的爱慕对象</string>
+    <string name="Camera">相机</string>
+    <string name="Photo_Gallery">图片资料库</string>
+    <string name="_Delete">确定要从清单中删除？</string>
+    <string name="Yes">是的</string>
+    <string name="No">不了</string>
+</resources>

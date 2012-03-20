@@ -1,0 +1,5 @@
+// this is a generated file - DO NOT EDIT
+
+JP_MSMC_GESTURERECOGNIZER_OTHER_LDFLAGS=$(inherited) -all_load
+
+OTHER_LDFLAGS=$(inherited) $(JP_MSMC_GESTURERECOGNIZER_OTHER_LDFLAGS) 
